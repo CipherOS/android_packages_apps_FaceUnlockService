@@ -5,7 +5,9 @@
     <string name="attr_light_high">Kasvoilla on liikaa valoa</string>
     <string name="attr_light_shadow">Kasvoilla on liikaa varjoja</string>
     <string name="btn_done">Valmis</string>
-    <string name="face_intro_conten_first_point">Kasvojen tunnistus ei ole yhtä turvallinen kuin lukituskuvio, PIN-koodi tai salasana</string>
+    <string name="btn_try_again">Yritä uudelleen</string>
+    <string name="btn_next">Seuraava</string>
+    <string name="face_intro_conten_first_point">Kasvojentunnistus ei ole yhtä turvallinen kuin lukituskuvio, PIN-koodi tai salasana</string>
     <string name="face_intro_content_second_point">Kanssasi samannäköinen henkilö voi avata puhelimesi lukituksen</string>
     <string name="face_intro_content_third_point">Kasvojen tunnistuksessa tarvittavat tiedot säilytetään puhelimessasi luottamuksellisesti</string>
     <string name="face_intro_remember">Muista:</string>
@@ -23,7 +25,7 @@
     <string name="perm_required_alert_msg">Kasvojentunnistus tarvitsee luvan käyttää joitakin laitteessa olevia kohteita. Myönnä oikeudet valitsemalla sovelluksessa Käyttöoikeudet.</string>
     <string name="perm_required_alert_title">Käyttöoikeus vaaditaan</string>
     <string name="policy_disabled_alert_msg">Järjestelmänvalvoja on poistanut kasvojentunnistuksen käytöstä.</string>
-    <string name="title_activity_face_intro">Kasvojentunnistus – esittely</string>
+    <string name="title_activity_face_intro">Kasvojentunnistuksen esittely</string>
     <string name="unlock_failed_face_blur">Kasvot ovat liian sumeat</string>
     <string name="unlock_failed_face_large">Kasvot ovat liian lähellä</string>
     <string name="unlock_failed_face_multi">Liian monta kasvoa havaittu</string>
